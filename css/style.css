@@ -1,0 +1,11 @@
+.item{
+    height: 200px;
+    background-color: green;
+}
+.item h4{
+    color: white;
+}
+.carouselEvents .item{
+    background-image:url("../img/eadcb9_1dede7b5577d457997e11717adeb4a7f.png_srz_46_46_85_22_0.50_1.20_0.00_png_srz");
+background-repeat: no-repeat;
+}
